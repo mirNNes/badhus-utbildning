@@ -1,0 +1,328 @@
+{
+  "id": "stadning-bassangomrade",
+  "title": "Bassängområdet",
+  "version": "0.3.0",
+  "slides": [
+    {
+  
+      "id": "s1",
+      "type": "galleryStep",
+      "title": "Klinkergolv runt bassängen",
+      "body": "Klinkergolv i bassängområden är vanligtvis halksäkra och utformade för att ge säkert fotfäste i en fuktig miljö. För att golvet ska behålla sin funktion krävs rätt rengöringsmetod.\n\nSmuts, kalk och fett samlas lätt i golvets struktur och i fogarna. Om fel metod eller rengöringsmedel används kan golvets halkskydd försämras över tid.\n\n[CARD-YELLOW]\nVarför detta är viktigt\nRena halksäkra golv minskar risken för halkolyckor och bidrar till att golvets funktion och livslängd bevaras.\n\n[CARD]\nKom ihåg\nArbeta systematiskt, använd rätt rengöringsmedel och lägg extra fokus på fogar och strukturerade ytor.",
+      "images": [
+        {
+          "src": "/modules/bassang/images/kakelgolv.png",
+          "alt": "Klinkergolv runt bassängen",
+          "caption": "Halksäker klinker vid bassäng",
+          "text": "Halksäker klinker ska hållas ren för att behålla friktionen. Arbeta metodiskt och använd rätt medel så att ytans halkskydd inte försämras."
+        },
+        {
+          "src": "/modules/bassang/images/halksaker.png",
+          "alt": "Halksäker klinker vid bassäng",
+          "caption": "Strukturerad yta",
+          "text": "I strukturerade ytor fastnar smuts lätt. Rätt metod handlar om lagom vatten, rätt dosering och mekanisk bearbetning."
+        },
+        {
+          "src": "/modules/bassang/images/exempelgolv.png",
+          "alt": "Detalj på klinker och fogar",
+          "caption": "Fog och struktur",
+          "text": "Smuts och beläggningar samlas ofta i fogar och struktur. Fokusera på fogarna, men undvik slipande metoder som kan skada ytan."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "type": "galleryStep",
+      "title": "Rätt kemikalier och rätt mängd vatten",
+      "body": "På golvkakel runt bassängen fastnar smuts lätt, särskilt i voffelmönster och fogar. Därför krävs rätt kemikalier, rätt dosering och lagom mängd vatten.\n\n[CARD-YELLOW]\nRekommenderad metod\nSmutsen avlägsnas ofta bäst med singelskurmaskin och roterande borste som kommer åt i strukturen.\n\n--- Arbetsgång ---\n- Förvattna vid behov\n- Använd korrekt dosering\n- Bearbeta ytan lugnt och jämnt\n- Skrapa eller sug upp vattnet efteråt\n\n[CARD]\nViktigt\nStädvatten får inte rinna ner i bassängen.",
+      "images": [
+        {
+          "src": "/modules/bassang/images/kakel_smuts1.png",
+          "alt": "Smuts i rutigt golvkakel",
+          "caption": "Före",
+          "text": "Voffelmönster och fogar binder smuts. Förvattna vid behov och använd korrekt dosering för att lösa upp smuts innan skurning."
+        },
+        {
+          "src": "/modules/bassang/images/skrubmaskin.png",
+          "alt": "Singelskurmaskin med roterande borste",
+          "caption": "Bearbetning",
+          "text": "Skura med singelskurmaskin och roterande borste. Arbeta i lugn takt och i överlappande drag så att hela ytan bearbetas."
+        },
+        {
+          "src": "/modules/bassang/images/skrapa_bassang.png",
+          "alt": "Rent golv efter skurning",
+          "caption": "Efter",
+          "text": "Skrapa eller sug upp vattnet och lämna golvet så torrt som möjligt. Säkerställ att städvatten inte rinner ner i bassängen."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "type": "galleryStep",
+      "title": "Undvik slipmedel",
+      "body": "Slipande rengöringsmedel kan skada ytan och försämra halkskyddet på klinkergolvet.\n\n[CARD-YELLOW]\nUndvik detta\nAnvänd inte produkter med slipkorn eller tydligt slipande effekt på golv och fogar i bassängmiljö.\n\n[CARD]\nInnan surt medel används\nGolv och fogar ska alltid förvattnas innan avkalkningsmedel eller andra sura rengöringsmedel används.\n\n--- Kom ihåg ---\n- Välj medel som är anpassat för ytan\n- Följ rutiner och dosering\n- Förvattna alltid före surt medel",
+      "images": [
+        {
+          "src": "/modules/bassang/images/golvskada.png",
+          "alt": "Skadad yta på klinker av fel medel",
+          "caption": "Fel metod",
+          "text": "Slipande medel kan rugga upp eller skada ytan, vilket på sikt kan påverka både livslängd och halksäkerhet."
+        },
+        {
+          "src": "/modules/bassang/images/spola_bassang.png",
+          "alt": "Blöta fogar innan avkalkning",
+          "caption": "Förberedelse",
+          "text": "Förvattna alltid golv och fogar innan sura medel används. Det minskar risken för skador och ger jämnare effekt."
+        },
+        {
+          "src": "/modules/bassang/images/skurkram.png",
+          "alt": "Exempel på rengörningsmedel med slipmedel",
+          "caption": "Undvik slipmedel",
+          "text": "Undvik produkter med slipkorn/slipande effekt. Välj istället ett medel som är avsett för ytan och följ rutiner och dosering."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "type": "galleryStep",
+      "title": "Håll golven torra",
+      "body": "Efter rengöring ska golven runt bassängen lämnas så torra som möjligt.\n\nTorra ytor minskar halkrisk, bakterietillväxt och onödigt slitage på material och fogar.\n\n[CARD-YELLOW]\nMålet efter städning\nVatten ska bort direkt efter rengöring.\n\n--- Använd detta ---\n- Gummiraka på mindre ytor\n- Kombiskurmaskin på större ytor\n- Kontrollera att vatten inte rinner mot bassängen\n\n[CARD]\nViktigt\nSmutsvatten och städvatten får inte rinna ner i bassängen.",
+      "images": [
+        {
+          "src": "/modules/bassang/images/skrapa_bassang.png",
+          "alt": "Gummiraka används för att skrapa bort vatten",
+          "caption": "Gummiraka",
+          "text": "Skrapa bort vatten direkt efter städning. Torrare golv minskar halkrisk, biofilm och bakterietillväxt."
+        },
+        {
+          "src": "/modules/bassang/images/kombiskur.png",
+          "alt": "Kombiskurmaskin suger upp vatten",
+          "caption": "Uppsugning",
+          "text": "Vid större ytor: använd kombiskurmaskin för att skura och suga upp i samma moment. Kontrollera att smutsvatten inte når bassängen."
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "type": "galleryStep",
+      "title": "Vattenlinjer, skvalprännor och biofilm",
+      "body": "Vattenlinjer, bassängkanter och skvalprännor är utsatta områden där biofilm lätt bildas. Hur ofta rengöring behövs beror på belastningen i anläggningen.\n\n[CARD-YELLOW]\nViktig rutin\nSkvalprännor bör rengöras minst en gång per vecka, och oftare vid hög belastning.\n\n[CARD]\nRekommenderad metod\nBiofilm avlägsnas bäst med mekanisk bearbetning, till exempel med mirakelsvamp. Regelbunden rengöring minskar behovet av starka medel.\n\n--- Kom ihåg ---\n- Fuktiga zoner kräver tätare tillsyn\n- Tidig insats gör rengöringen enklare\n- Regelbundenhet minskar beläggningar",
+      "images": [
+        {
+          "src": "/modules/bassang/images/vattenlinije.png",
+          "alt": "Skvalpränna med beläggning",
+          "caption": "Före",
+          "text": "Beläggningar bildas snabbt i fuktiga zoner vid vattenlinje och rännor. Tidig insats gör rengöringen enklare."
+        },
+        {
+          "src": "/modules/bassang/images/skvalpranna.png",
+          "alt": "Rengöring av skvalpränna",
+          "caption": "Rengöring",
+          "text": "Bearbeta mekaniskt, till exempel med mirakelsvamp, för att bryta biofilmen. Regelbundenhet minskar behovet av starka medel."
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "type": "galleryStep",
+      "title": "Fönsterputsning i simhall – risk och metod",
+      "body": "I simhallsmiljö finns klor, fukt och kemrester som lätt kan reagera med varandra på glasytor.\n\n[CARD-YELLOW]\nRisk\nVanliga fönstermedel kan ge matta, flammiga eller fläckiga glas. I vissa fall kan skadan bli permanent.\n\n[CARD]\nRekommenderad metod\nPutsa med rent, avmineraliserat eller avjoniserat vatten utan kemikalier.\n\n--- Fördelar med rätt metod ---\n- Minskar risken för skador\n- Förhindrar fläckar\n- Ger klarare resultat\n- Skyddar glaset över tid",
+      "images": [
+        {
+          "src": "/modules/bassang/images/nara.jpg",
+          "alt": "Glas med flammiga ytor",
+          "caption": "Risk – flammigt glas",
+          "text": "Kemrester + klor + fukt kan ge flammighet och matta ytor. I värsta fall blir skadan permanent."
+        },
+        {
+          "src": "/modules/bassang/images/fonsterputz1.png",
+          "alt": "Fönster nära bassängmiljö",
+          "caption": "Simhallsmiljö",
+          "text": "I simhallsmiljö fastnar klorider och fukt lätt på glas. Det gör att vanliga medel oftare ger märken."
+        },
+        {
+          "src": "/modules/bassang/images/fonsterfel.png",
+          "alt": "Kemikalier som kan orsaka reaktion",
+          "caption": "Undvik dessa medel",
+          "text": "Undvik traditionella fönstermedel i simhall. Risken är att rester reagerar med klor och ger missfärgningar."
+        },
+        {
+          "src": "/modules/bassang/images/fonsterputs.png",
+          "alt": "Putsning med rent vatten",
+          "caption": "Kemikaliefri metod",
+          "text": "Rekommenderad metod: putsa med rent, avmineraliserat eller avjoniserat vatten utan kemikalier för jämnt resultat."
+        },
+        {
+          "src": "/modules/bassang/images/fonster_skrapa.png",
+          "alt": "Glas efter kemikaliefri putsning",
+          "caption": "Resultat",
+          "text": "Resultatet blir ofta klarare och jämnare samtidigt som risken för flammighet och fläckar minskar."
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "type": "galleryStep",
+      "title": "Rost, kalk och algpåväxt",
+      "body": "I bassängområdet kan det uppstå punktvisa problem som kalkavlagringar, algpåväxt i fogar och rostfläckar. Dessa ska åtgärdas tidigt för att undvika skador och missfärgning.\n\n[CARD-YELLOW]\nViktigt\nÄven rostfria ytor kan angripas i klormiljö. Klorider och fukt kan bryta ner stålets skyddande yta.\n\n--- Åtgärda så här ---\n- Rost: använd avsett medel för rostfritt eller klinker\n- Kalk: använd surt medel enligt rutin\n- Algpåväxt: kombinera rätt medel med mekanisk bearbetning\n\n[CARD]\nKom ihåg\nSkölj alltid noggrant efter punktstädning och lämna ytan så torr som möjligt.",
+      "images": [
+        {
+          "src": "/modules/bassang/images/rost_exempel.png",
+          "alt": "Rostangrepp på rostfri yta",
+          "caption": "Rostangrepp",
+          "text": "Även rostfritt kan angripas i klormiljö. Upptäck tidigt och åtgärda direkt för att undvika permanent skada."
+        },
+        {
+          "src": "/modules/bassang/images/rostbehandling.png",
+          "alt": "Rostfläckar i fuktig klormiljö",
+          "caption": "Klorpåverkan",
+          "text": "Klorider och fukt kan bryta ner skyddsskiktet. Rengör, skölj och torka torrt efteråt."
+        },
+        {
+          "src": "/modules/bassang/images/racket.png",
+          "alt": "Putsa räcket",
+          "caption": "Rengör rostfritt rätt",
+          "text": "Rengör räcken med anpassat medel för rostfritt stål. Undvik stålull och slipande pads."
+        },
+        {
+          "src": "/modules/bassang/images/kalk_flackar.png",
+          "alt": "Kalk på kanter",
+          "caption": "Kalk på kanter",
+          "text": "Kalk tas bort med surt medel enligt rutin. Förvattna ytan innan och skölj noga efteråt."
+        },
+        {
+          "src": "/modules/bassang/images/golvet_efter.png",
+          "alt": "Efter behandling",
+          "caption": "Efter behandling",
+          "text": "Efter punktstädning: skölj ordentligt och lämna ytan så torr som möjligt för att minska ny påväxt."
+        },
+        {
+          "src": "/modules/bassang/images/alg_storborste.png",
+          "alt": "Algpåväxt i fogar",
+          "caption": "Algpåväxt i foger",
+          "text": "Alg och biofilm kräver mekanisk bearbetning. Kombinera borste med lämpligt medel och följ rutiner."
+        },
+        {
+          "src": "/modules/bassang/images/alg_borste.png",
+          "alt": "Fogborste och efterarbete",
+          "caption": "Fogborste",
+          "text": "Fokusera på fogarna där beläggning ofta sitter hårdast. Arbeta kontrollerat för att inte skada fog."
+        },
+        {
+          "src": "/modules/bassang/images/fog_borste.png",
+          "alt": "Bearbetning och sköljning",
+          "caption": "Bearbeta och skölj",
+          "text": "Skölj bort upplöst smuts och medel. Lämna ytan torr och se till att inget rinner ner i bassängen."
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "type": "galleryStep",
+      "title": "Bassängtoaletter och hygienrutiner",
+      "body": "Bassängtoaletter är högbelastade och behöver därför kontrolleras och rengöras flera gånger per dag.\n\n[CARD-YELLOW]\nSnabb åtgärd är viktig\nUrin på golv och runt toaletter ska tas bort omgående för att minska lukt, halkrisk, missfärgning och hygienproblem.\n\n--- Kontrollera särskilt ---\n- Golv runt WC\n- Spolknapp och handtag\n- Stänkzoner och brunnar\n- Pappersnivå och tvål\n- Synliga fläckar och lukt\n\n[CARD]\nMålet\nYtorna ska upplevas rena, torra och välskötta under hela dagen.",
+      "images": [
+        {
+          "src": "/modules/bassang/images/sparra.png",
+          "alt": "Bassängtoalett i simhallsmiljö",
+          "caption": "Miljö med hög belastning",
+          "text": "Toaletter vid bassäng är högbelastade. Planera för flera kontroller per dag och åtgärda avvikelser direkt."
+        },
+        {
+          "src": "/modules/bassang/images/skummagolv.png",
+          "alt": "Rengöring av toalettutrymmen",
+          "caption": "Daglig rengöring",
+          "text": "Daglig rengöring ska vara systematisk: från rena till smutsiga ytor och med fokus på golv, brunnar och stänkzoner."
+        },
+        {
+          "src": "/modules/bassang/images/toalett1.png",
+          "alt": "Kontroll av hygienpunkter",
+          "caption": "Kontroll och tillsyn",
+          "text": "Kontrollera särskilt toalett, spolknapp, handtag och golv runt WC där stänk och luktproblem ofta uppstår."
+        },
+        {
+          "src": "/modules/bassang/images/borstagolv.png",
+          "alt": "Missfärgning på golv nära toalett",
+          "caption": "Risk – missfärgning och lukt",
+          "text": "Urin kan orsaka missfärgning och lukt samt öka halkrisk. Snabb insats minskar behovet av starka åtgärder."
+        },
+        {
+          "src": "/modules/bassang/images/spolaefter.png",
+          "alt": "Rengöring av golv runt toalett",
+          "caption": "Omedelbar åtgärd",
+          "text": "Spola eller avlägsna omgående och torka upp. Lämna inte fukt kvar längre än nödvändigt."
+        },
+        {
+          "src": "/modules/bassang/images/toalett2.png",
+          "alt": "Rent och torrt golv efter städning",
+          "caption": "Rent och torrt resultat",
+          "text": "Målet är rent och torrt. Torra ytor minskar lukt, smittspridning och halkrisk."
+        },
+        {
+          "src": "/modules/bassang/images/torkaspegel.png",
+          "alt": "Kontroll av hygienpunkter",
+          "caption": "Avslutande kontroll",
+          "text": "Avsluta med snabbkontroll av speglar, pappersnivå, tvål och synliga fläckar. Små detaljer gör stor skillnad."
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "type": "galleryStep",
+      "title": "Bottensugning",
+      "body": "Bassängen ska bottensugas regelbundet. Hur ofta det behövs beror på belastning, bassängens storlek och vilket reningssystem som används.\n\n[CARD-YELLOW]\nViktigt före och efter användning\nPlocka alltid upp metallföremål, till exempel hårnålar, direkt för att undvika rostfläckar.\n\n--- Underhåll av bottensug ---\n- Rensa borstar, hjul och filter från hår och trådar\n- Kontrollera att drivremmar sitter rätt\n- Säkerställ att filterpåsarna är korrekt isatta\n- Följ tillverkarens serviceintervall\n\n[CARD]\nAnvänd rätt funktion\nSänk ner enheten försiktigt med \"Pool\"-läge och ta upp den med \"Home\". Dra aldrig upp den i kabeln.",
+      "images": [
+        {
+          "src": "/modules/bassang/images/bottensug2.png",
+          "alt": "Bottensugning av bassäng",
+          "caption": "Utförande",
+          "text": "Bottensug regelbundet och plocka upp metallföremål direkt, till exempel hårnålar, för att undvika rostfläckar."
+        },
+        {
+          "src": "/modules/bassang/images/bottensug1.png",
+          "alt": "Utrustning för bassängstädning",
+          "caption": "Utrustning",
+          "text": "Kontrollera att du har rätt modell och rätt inställning. Sänk ner enheten försiktigt med “Pool”-läge och kasta den aldrig i vattnet."
+        },
+        {
+          "src": "/modules/bassang/images/botten_underhall.png",
+          "alt": "Underhåll av bottensug",
+          "caption": "Underhåll",
+          "text": "Rensa borstar, hjul och filter från hår och trådar. Kontrollera drivremmar så att de är hela och sitter rätt."
+        },
+        {
+          "src": "/modules/bassang/images/pase.png",
+          "alt": "Filterpåse till bottensug",
+          "caption": "Filterpåse",
+          "text": "Kontrollera att filterpåsarna är korrekt isatta och stängda. Tvätta enligt tillverkarens anvisningar vid behov."
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "type": "galleryStep",
+      "title": "Ergonomi och arbetsteknik",
+      "body": "God arbetsteknik minskar belastningen på nacke, axlar, rygg och leder och gör det möjligt att arbeta hållbart över tid.\n\n[CARD-YELLOW]\nBra arbetsteknik\nArbeta upprätt, håll axlarna sänkta, armarna nära kroppen och använd benen mer än armarna när du förflyttar dig.\n\n--- Tänk på detta ---\n- Undvik långvarigt framåtlutat arbete\n- Håll kroppstyngden över fötterna\n- Använd ställbara eller teleskopiska skaft\n- Variera arbetsställning och ta mikropauser\n\n[CARD]\nRätt utrustning hjälper\nRedskap och maskiner ska vara lätta att använda, rätt inställda och anpassade till både person och arbetsuppgift.",
+      "images": [
+        {
+          "src": "/modules/bassang/images/ergonomi1.png",
+          "alt": "Ergonomisk arbetsställning vid städning",
+          "caption": "Bra hållning",
+          "text": "Arbeta upprätt med axlarna sänkta och armarna nära kroppen. Flytta dig med benen och håll kroppstyngden över fötterna."
+        },
+        {
+          "src": "/modules/bassang/images/s8-2.jpg",
+          "alt": "Ergonomiskt skaft eller hjälpmedel",
+          "caption": "Hjälpmedel",
+          "text": "Använd ställbara eller teleskopiska skaft och rätt redskap för uppgiften. Justera höjden så du slipper böja rygg och nacke."
+        },
+        {
+          "src": "/modules/bassang/images/ergo2.png",
+          "alt": "Undvik framåtböjd ställning",
+          "caption": "Undvik",
+          "text": "Undvik framåtlutat arbete under längre tid. Ta mikropauser och variera arbetsställning för att minska belastning."
+        }
+      ]
+    }
+  ]
+}

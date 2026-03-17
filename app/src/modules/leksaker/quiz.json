@@ -1,0 +1,55 @@
+{
+  "passScore": 4,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Vad ska kontrolleras vid den dagliga genomgången av leksaker och flytredskap?",
+      "options": [
+        "Att de inte är spruckna, har vassa kanter eller lösa delar",
+        "Att de har starka färger och ser nya ut",
+        "Att de flyter snabbare än tidigare"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Vad ska göras med spruckna eller skadade leksaker?",
+      "options": [
+        "Tas ur bruk omedelbart",
+        "Användas tills de går sönder helt",
+        "Lagas tillfälligt med tejp och läggas tillbaka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Varför är regelbunden rengöring och desinfektion viktig?",
+      "options": [
+        "För att minska risken för smittspridning och förhindra biofilm",
+        "För att göra leksakerna tyngre i vattnet",
+        "För att de ska lukta starkare av rengöringsmedel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Varför ska simkorvar och simplattor kontrolleras extra noggrant?",
+      "options": [
+        "Skadat skum- eller plastmaterial samlar lättare smuts och bakterier",
+        "De byter färg naturligt varje vecka",
+        "De behöver sällan rengöras"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Hur ska leksaker och flytredskap förvaras efter rengöring?",
+      "options": [
+        "Torrt och luftigt för att minska bakterietillväxt",
+        "I en stängd och fuktig låda",
+        "Direkt i bassängen över natten"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

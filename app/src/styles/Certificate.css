@@ -1,0 +1,132 @@
+/* styles/Certificate.css */
+
+.certificate-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  padding: 20px;
+  background: transparent; /* Låter din globala bakgrund synas */
+}
+
+.certificate-card {
+  background: #ffffff;
+  border: 6px solid #000000;
+  padding: 40px;
+  max-width: 600px;
+  width: 100%;
+  box-shadow: 15px 15px 0px #fbbf24; /* Gul brutalistisk skugga */
+}
+
+.certificate-card.error-state {
+  box-shadow: 15px 15px 0px #ef4444; /* Röd skugga för underkänd */
+}
+
+.certificate-title {
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: 950;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  line-height: 0.9;
+  letter-spacing: -2px;
+}
+
+.certificate-score {
+  background: #000;
+  color: #fbbf24;
+  display: inline-block;
+  padding: 8px 20px;
+  font-size: 1.5rem;
+  font-weight: 900;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+}
+
+.certificate-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+}
+
+.certificate-input-group {
+  text-align: left;
+}
+
+.certificate-label {
+  display: block;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  margin-bottom: 8px;
+}
+
+.certificate-input {
+  width: 100%;
+  padding: 16px;
+  border: 4px solid #000;
+  font-family: inherit;
+  font-size: 1.2rem;
+  font-weight: 700;
+  box-sizing: border-box;
+  background: #f9fafb;
+}
+
+.certificate-input:focus {
+  outline: none;
+  background-color: #fef08a;
+}
+
+.certificate-error {
+  color: #ef4444;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  margin-top: 8px;
+}
+
+.certificate-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.btn-generate {
+  background: #fbbf24;
+  color: #000;
+  border: 4px solid #000;
+  padding: 18px;
+  font-size: 1.1rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  cursor: pointer;
+  box-shadow: 6px 6px 0px #000;
+  transition: 0.1s;
+}
+
+.btn-generate:hover:not(:disabled) {
+  transform: translate(-2px, -2px);
+  box-shadow: 8px 8px 0px #000;
+  background: #fef08a;
+}
+
+.btn-generate:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+.btn-back {
+  background: #fff;
+  border: 4px solid #000;
+  padding: 14px;
+  font-weight: 900;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: 0.1s;
+}
+
+.btn-back:hover {
+  background: #f3f4f6;
+}

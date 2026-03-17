@@ -1,0 +1,24 @@
+/* =========================================
+   app.css – Electron Base Reset
+   ========================================= */
+
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0; /* VIKTIGT: Nollställd padding för att slippa scroll */
+  display: flex;
+  flex-direction: column;
+}
+
+/* Behåll logotyps-effekter om du använder dem, annars kan filen vara tom */
+.logo {
+  height: 4em;
+  will-change: filter;
+  transition: transform 0.1s ease-in-out;
+}
+
+.logo:hover {
+  filter: drop-shadow(4px 4px 0px #000);
+  transform: scale(1.05);
+}

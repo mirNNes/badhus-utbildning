@@ -1,0 +1,105 @@
+{
+  "id": "torra-ytor",
+  "title": "Skogräns och torra entréytor",
+  "version": "0.5.0",
+  "slides": [
+    {
+      "id": "s1",
+      "type": "galleryStep",
+      "title": "Skogräns och zonindelning",
+      "body": "I ett badhus är renlighet och hygien avgörande för både säkerhet, trivsel och vattenkvalitet. Därför arbetar man med tydliga zoner som skiljer smutsiga ytor från rena.\n\nVid entré och reception finns torra ytor där gäster fortfarande bär ytterskor. Här finns en skogräns där den smutsiga zonen övergår till den rena zonen, där gästerna fortsätter barfota eller i strumpor.\n\nVia entrén förs stora mängder smuts in i anläggningen. Grus, damm, fukt och bakterier följer lätt med in om övergången mellan zonerna är otydlig eller dåligt städad.\n\n[CARD-YELLOW]\nVarför detta är viktigt\nEn tydlig och välskött övergång minskar risken att smuts, grus och bakterier förs vidare till omklädningsrum, duschutrymmen och bassängområde.\n\n[CARD]\nDet här ska du alltid kontrollera\nSkogränsen ska vara tydlig, golvet ska vara rent och torrt, och området ska upplevas som välskött av både gäster och personal.",
+      "images": [
+        {
+          "src": "/modules/torra-ytor/images/zoneindelning.png",
+          "alt": "Tydlig skogräns i entré",
+          "caption": "Tydlig övergång mellan zoner",
+          "text": "En tydligt markerad skogräns visar var smutsig zon övergår till ren zon. Markeringen ska vara synlig och lätt att uppfatta för gästerna."
+        },
+        {
+          "src": "/modules/torra-ytor/images/grans_fore.png",
+          "alt": "Markering mellan smutsig och ren zon",
+          "caption": "Zonindelning",
+          "text": "Zonindelningen minskar spridning av grus, smuts och bakterier från entré till omklädningsrum och vidare in i anläggningen."
+        },
+        {
+          "src": "/modules/torra-ytor/images/grans_efter.png",
+          "alt": "Otydlig övergångszon",
+          "caption": "Övergången ska hållas ren och tydlig",
+          "text": "En otydlig eller smutsig övergångszon försämrar både hygien och helhetsintryck. Området ska alltid vara rent, torrt och fritt från skräp."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "type": "galleryStep",
+      "title": "Städning enligt zonprincip",
+      "body": "Städningen på torra entréytor ska alltid följa zonindelningen. Syftet är att förhindra att smuts flyttas från yttre, mer belastade delar av anläggningen vidare in i renare områden.\n\n--- Arbetsprincip ---\nStäda alltid i rätt ordning och med rätt utrustning för rätt zon.\n\n[CARD-YELLOW]\nViktigt arbetssätt\nSmutsig zon ska alltid städas först. Om samma redskap eller maskin används vidare utan rengöring finns risk att smuts och bakterier förs över till ren zon.\n\n[CARD]\nKom ihåg\nAnvänd om möjligt separata städredskap och maskiner för smutsig respektive ren zon. Om det inte går ska utrustningen rengöras eller bytas innan arbetet fortsätter.\n\n--- Kontrollpunkter ---\n- Följ alltid zonindelningen\n- Städa smutsig zon först\n- Byt eller rengör utrustning före ren zon\n- Undvik att föra vidare smuts med hjul, moppar och maskiner",
+      "images": [
+        {
+          "src": "/modules/torra-ytor/images/olika.png",
+          "alt": "Separata städredskap",
+          "caption": "Olika utrustning för olika zoner",
+          "text": "Använd separata redskap och maskiner för smutsig respektive ren zon om möjligt. Det minskar risken för korskontaminering."
+        },
+        {
+          "src": "/modules/torra-ytor/images/maskin_foaje.png",
+          "alt": "Städmaskin i entrézon",
+          "caption": "Smutsig zon städas först",
+          "text": "Städa alltid smutsig zon först. På så sätt undviks att smuts förs vidare in i renare delar av anläggningen."
+        },
+        {
+          "src": "/modules/torra-ytor/images/stada_maskin.png",
+          "alt": "Rengöring av städmaskin",
+          "caption": "Rengör utrustning före ren zon",
+          "text": "Rengör eller byt utrustning innan du fortsätter i ren zon. Maskiner och moppar kan annars sprida smuts vidare."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "type": "galleryStep",
+      "title": "Risker vid bristande zonhantering",
+      "body": "Om zonprincipen inte följs kan smuts från entrén spridas vidare till omklädningsrum, duschutrymmen och bassängnära miljöer. Det påverkar både hygien, säkerhet och det allmänna intrycket av anläggningen.\n\n[CARD-YELLOW]\nVad kan hända?\nBristande zonhantering kan leda till korskontaminering, försämrad hygiennivå, ökad halkrisk och onödigt slitage på golv och ytskikt.\n\n--- Vanliga konsekvenser ---\n- Smuts förs från entré till ren zon\n- Fukt och grus ökar halkrisken\n- Ytor slits snabbare\n- Städningen blir mindre effektiv\n- Gästens upplevelse försämras\n\n[CARD]\nSärskild riskyta\nÖvergångszonen är en av anläggningens mest utsatta ytor. Därför krävs extra uppmärksamhet, tydlig rutin och snabb åtgärd när något ser fel ut.",
+      "images": [
+        {
+          "src": "/modules/torra-ytor/images/grans.png",
+          "alt": "Smuts sprids mellan zoner",
+          "caption": "Risk för spridning",
+          "text": "Om zonprincipen inte följs kan smuts från entrén spridas vidare till ren zon och in i resten av anläggningen."
+        },
+        {
+          "src": "/modules/torra-ytor/images/moppa_foaje.png",
+          "alt": "Vått golv i entrézon",
+          "caption": "Halkrisk och hygienrisk",
+          "text": "Bristande städning kan leda till halkrisk, försämrad hygien och ökat slitage på material och golvytor."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "type": "galleryStep",
+      "title": "Metod och daglig kontroll",
+      "body": "Golven på torra entréytor ska rengöras regelbundet med rätt metod för att effektivt avlägsna smuts och upprätthålla en hög hygienisk standard. På större ytor är kombiskurmaskin ofta en bra lösning.\n\nEfter städning ska golvet alltid lämnas så torrt som möjligt. Torra ytor minskar halkrisk och ger ett bättre helhetsintryck.\n\n[CARD-YELLOW]\nDaglig kontroll\nÖvergångszonen kräver frekvent tillsyn under dagen eftersom många personer passerar där. Små avvikelser ska åtgärdas direkt innan de blir större problem.\n\n--- Kontrollera detta flera gånger per dag ---\n- Markeringarna är tydliga\n- Golvet är rent och torrt\n- Passagen är fri från hinder\n- Smuts och grus har inte samlats vid skogränsen\n- Området ser välskött ut för gästerna\n\n[CARD]\nMålet med momentet\nEn välskött övergångszon skyddar hela anläggningen genom att minska spridning av smuts och skapa en tryggare och renare miljö.",
+      "images": [
+        {
+          "src": "/modules/torra-ytor/images/maskin_korridor.png",
+          "alt": "Kombiskurmaskin på torr yta",
+          "caption": "Maskinell rengöring",
+          "text": "Använd kombiskurmaskin regelbundet för att avlägsna smuts effektivt och upprätthålla hög hygienisk standard."
+        },
+        {
+          "src": "/modules/torra-ytor/images/torr_efter.png",
+          "alt": "Torrt golv efter städning",
+          "caption": "Torrt och säkert resultat",
+          "text": "Efter städning ska golvet alltid lämnas torrt. Torra ytor minskar halkrisk och förbättrar säkerheten."
+        },
+        {
+          "src": "/modules/torra-ytor/images/dammsuga.png",
+          "alt": "Daglig kontroll av övergångszon",
+          "caption": "Daglig kontroll",
+          "text": "Kontrollera övergångszonen flera gånger per dag. Markeringar ska vara tydliga, passagen fri och golvet torrt."
+        }
+      ]
+    }
+  ]
+}

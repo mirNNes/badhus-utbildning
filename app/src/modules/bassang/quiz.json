@@ -1,0 +1,55 @@
+{
+  "passScore": 4,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Vilken metod är mest effektiv för att rengöra halksäker/strukturerad klinker runt bassängen?",
+      "options": [
+        "Singelskurmaskin med roterande borste och överlappande drag",
+        "Högtrycksspolning för att snabbt lösa smuts",
+        "Slipande skurkräm för att få bort beläggningar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Varför ska man undvika rengöringsmedel med slipmedel runt bassängen?",
+      "options": [
+        "De kan skada ytan och försämra halkskyddet",
+        "De är för dyra och tar slut snabbt",
+        "De fungerar bara på glasytor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Vad är en viktig rutin efter städning av golv vid bassängområdet?",
+      "options": [
+        "Lämna golvet så torrt som möjligt och se till att städvatten inte rinner ner i bassängen",
+        "Låta städvattnet ligga kvar så kemikalierna fortsätter verka",
+        "Skölja extra så att mer vatten rinner ner i bassängen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Hur bör vattenlinjer och skvalprännor rengöras för att få bort biofilm?",
+      "options": [
+        "Med mekanisk bearbetning, t.ex. melaminsvamp (mirakelsvamp), regelbundet",
+        "Med enbart starkt surt medel varje gång",
+        "Med slipande pad för att rugga bort beläggningen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Vilken metod rekommenderas för fönsterputsning i simhall nära bassängmiljö?",
+      "options": [
+        "Putsa med rent avmineraliserat/avjoniserat vatten utan kemikalier",
+        "Putsa med vanligt fönsterputsmedel för bästa glans",
+        "Putsa med klorblandat vatten för att desinficera glaset"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

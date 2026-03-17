@@ -1,0 +1,133 @@
+{
+  "id": "kvallsstad",
+  "title": "Kvällsstäd",
+  "version": "1.0.0",
+  "slides": [
+    {
+      "id": "s1",
+      "type": "galleryStep",
+      "title": "Bassängområde – ytor och golv",
+      "body": "Kvällsstädningen i bassängområdet är viktig för att återställa miljön efter dagens belastning och skapa en ren, säker och välordnad anläggning inför nästa dag.\n\nSamtliga ytor runt bassängerna ska spolas av, inklusive gångstråk, pelare och räcken. Därefter skrapas golven torra och vattnet samlas mot brunnarna.\n\nSkräp och lösa föremål ska plockas upp från golvet så att området lämnas rent och fritt från hinder.\n\n[CARD-YELLOW]\nVarför detta är viktigt\nNoggrann rengöring av bassängområdet minskar halkrisk, förhindrar att smuts byggs upp och bidrar till en trygg och trivsam miljö för både gäster och personal.\n\n[CARD]\nDet här ska du alltid kontrollera\nGolven ska vara fria från skräp, ytorna ska vara avspolade och området ska lämnas så torrt och säkert som möjligt.",
+      "images": [
+        {
+          "src": "/modules/kvallstad/images/spola_kvall.png",
+          "alt": "Spolning runt bassäng",
+          "caption": "Avspolning av bassängytor",
+          "text": "Spola av gångstråk, pelare, räcken och övriga ytor runt bassängen för att avlägsna smuts och förbereda golvet för skrapning."
+        },
+        {
+          "src": "/modules/kvallstad/images/skrapa_bassang.png",
+          "alt": "Skrapning av golv",
+          "caption": "Golvet skrapas torrt",
+          "text": "Skrapa golven torra och samla vattnet mot brunnarna. Kontrollera att inga halkrisker finns kvar innan området lämnas."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "type": "galleryStep",
+      "title": "Bassängområde – ordning och utrustning",
+      "body": "Efter rengöring av ytor och golv ska bassängområdet återställas så att allt är i ordning inför nästa öppning.\n\nSimredskap och annan utrustning plockas undan och ställs tillbaka på avsedd plats. Soppåsar runt bassängområdet byts och leksaker eller flythjälpmedel desinficeras vid behov.\n\nBottensug sätts i enligt rutin så att bassängen är redo för nattlig rengöring.\n\n[CARD-YELLOW]\nViktigt arbetssätt\nEtt välordnat bassängområde minskar risken för skador, underlättar nästa arbetspass och gör att anläggningen snabbt kan tas i bruk nästa dag.\n\n--- Kontrollpunkter ---\n- Simredskap ligger på rätt plats\n- Soppåsar är bytta\n- Bottensug är monterad enligt rutin\n- Brunnar är fria från skräp\n\n[CARD]\nKom ihåg\nOmrådet ska lämnas i ett helt återställt skick där både ordning, hygien och funktion är säkrade.",
+      "images": [
+        {
+          "src": "/modules/kvallstad/images/redskap_ordna.png",
+          "alt": "Iordningställda simredskap",
+          "caption": "Simredskap på rätt plats",
+          "text": "Plocka undan och ställ tillbaka simredskap på rätt plats. Ett ordnat bassängområde minskar risk för skador och underlättar morgonens start."
+        },
+        {
+          "src": "/modules/kvallstad/images/bottensug2.png",
+          "alt": "Bottensug i bassäng",
+          "caption": "Bottensug monterad",
+          "text": "Montera bottensug enligt rutin så att bassängen är redo för nattlig rengöring. Kontrollera samtidigt att brunnar är fria från skräp."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "type": "galleryStep",
+      "title": "Korridorer och bassängtoaletter",
+      "body": "Korridorer och bassängtoaletter är ytor som används mycket under dagen och behöver därför städas noggrant vid kvällsstädningen.\n\nVåta korridorer mellan bassäng och omklädningsrum moppas så att golven lämnas rena och torra. Bassängtoaletterna städas enligt ordinarie toalettrutin.\n\nDet innebär att toalettstol, handfat, speglar och beröringsytor rengörs, att soppåsar byts och att förbrukningsmaterial fylls på inför nästa dag.\n\n[CARD-YELLOW]\nVarför detta är viktigt\nTorra gångstråk minskar halkrisk och rena toaletter bidrar till både hygien och ett gott helhetsintryck av anläggningen.\n\n[CARD]\nDet här ska du kontrollera\nGolven ska vara torra, toaletten ska vara rengjord och allt förbrukningsmaterial ska vara påfyllt innan du lämnar området.",
+      "images": [
+        {
+          "src": "/modules/kvallstad/images/kombi_kvall.png",
+          "alt": "Moppning av korridor",
+          "caption": "Torra gångstråk",
+          "text": "Moppa korridorer och gångstråk mellan bassäng och omklädningsrum. Säkerställ att golven lämnas rena och torra."
+        },
+        {
+          "src": "/modules/kvallstad/images/bassangtoa_kvall.png",
+          "alt": "Rengjord bassängtoalett",
+          "caption": "Kvällsstädad toalett",
+          "text": "Rengör toalettstol, handfat, speglar och beröringsytor. Byt soppåsar och fyll på förbrukningsmaterial inför nästa dag."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "type": "galleryStep",
+      "title": "Omklädningsrum – duschutrymmen",
+      "body": "Duschutrymmena ska kvällsstädas mer grundligt än vid löpande underhåll under dagen. Målet är att lämna utrymmet i ett hygieniskt och välordnat skick inför nästa öppning.\n\nSpola av duschutrymmet ordentligt och skrapa golven torra. Rengör golvbrunnar vid behov och avfläcka väggar där smuts eller beläggningar syns.\n\nBänkar, blandare och andra beröringsytor rengörs och all utrustning, som exempelvis duschstolar, ska vara korrekt placerad när arbetet avslutas.\n\n[CARD-YELLOW]\nSärskilt viktig yta\nDuschutrymmen är varma och fuktiga miljöer där smuts, hudrester och biofilm lätt samlas. Därför krävs noggrann kvällsstädning för att hålla god hygienisk standard.\n\n[CARD]\nMålet med momentet\nDuschutrymmet ska lämnas rent, torrt, hygieniskt och i ordning för nästa dags gäster och personal.",
+      "images": [
+        {
+          "src": "/modules/kvallstad/images/dusch_kvall.png",
+          "alt": "Spolning av duschutrymme",
+          "caption": "Noggrann avspolning",
+          "text": "Spola av duschutrymmet noggrant och avlägsna synlig smuts. Kontrollera att golvbrunnar fungerar och är fria från skräp."
+        },
+        {
+          "src": "/modules/kvallstad/images/ren_dusch.png",
+          "alt": "Rengjord duschmiljö",
+          "caption": "Dusch redo för nästa dag",
+          "text": "Skrapa golven torra och rengör bänkar, blandare och beröringsytor. Utrymmet ska lämnas hygieniskt och välordnat."
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "type": "galleryStep",
+      "title": "Omklädningsrum – skåp och inredning",
+      "body": "Omklädningsrummet ska kvällsstädas så att det upplevs rent, organiserat och välkomnande nästa dag.\n\nSoppåsar töms och byts. Golven dammsopas och moppas noggrant. Skåpen dammas ur invändigt med dammvippa och skräp avlägsnas.\n\nSkåpens in- och utsidor torkas av, liksom dörrar, speglar, bänkar och andra synliga ytor. Möbler, barnstolar och pallar ställs i ordning.\n\n[CARD-YELLOW]\nVarför detta är viktigt\nEtt välstädat och ordnat omklädningsrum förbättrar gästupplevelsen, minskar mängden kvarliggande smuts och gör att morgonens arbete kan starta effektivt.\n\n--- Kontrollpunkter ---\n- Soppåsar är bytta\n- Golven är rena och torra\n- Skåp är rengjorda invändigt och utvändigt\n- Möbler och utrustning står i ordning\n\n[CARD]\nKom ihåg\nKontrollera att inga kvarglömda föremål finns kvar och rapportera enligt rutin.",
+      "images": [
+        {
+          "src": "/modules/kvallstad/images/damvippa_kvall.png",
+          "alt": "Städning av skåp",
+          "caption": "Skåp rengörs invändigt och utvändigt",
+          "text": "Damma ur skåp invändigt och avlägsna skräp. Torka av in- och utsidor samt dörrar och speglar."
+        },
+        {
+          "src": "/modules/kvallstad/images/moppa_kvall.png",
+          "alt": "Moppning av korridor",
+          "caption": "Torra gångstråk",
+          "text": "Dammsopa och moppa golven noggrant. Säkerställ att gångstråk är torra och fria från skräp."
+        },
+        {
+          "src": "/modules/kvallstad/images/ordning_kvall.png",
+          "alt": "Iordningställt omklädningsrum",
+          "caption": "Redo för öppning",
+          "text": "Ställ möbler, barnstolar och pallar i ordning. Kontrollera att inget är kvarglömt och att rummet är redo för öppning."
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "type": "galleryStep",
+      "title": "Avslut och slutkontroll",
+      "body": "När kvällsstädningen är genomförd ska en slutkontroll göras av bassängområde, toaletter och omklädningsrum. Syftet är att säkerställa att alla moment är genomförda och att anläggningen är redo för nästa dag.\n\nKontrollera att golven är torra och fria från halkrisk, att soppåsar är bytta, att utrustning står i ordning och att inga ytor har missats.\n\nStädutrustningen ska därefter tömmas, rengöras och återställas så att den är redo för nästa arbetspass.\n\n[CARD-YELLOW]\nVarför slutkontrollen är viktig\nEn systematisk avslutning minskar risken för missade moment, förbättrar säkerheten och ger morgonpersonalen goda förutsättningar att starta arbetet effektivt.\n\n[CARD]\nDet sista du ska säkerställa\nAlla ytor ska vara klara, all utrustning ska vara återställd och hela anläggningen ska upplevas ren, trygg och väl förberedd inför nästa öppning.",
+      "images": [
+        {
+          "src": "/modules/kvallstad/images/slutkontroll.png",
+          "alt": "Slutkontroll av bassängområde",
+          "caption": "Helhetskontroll",
+          "text": "Gör en systematisk slutkontroll av alla områden. Säkerställ att inga halkrisker finns och att alla moment är genomförda."
+        },
+        {
+          "src": "/modules/kvallstad/images/stadvagn_kvall.png",
+          "alt": "Städvagn redo för nästa dag",
+          "caption": "Förberett inför morgonen",
+          "text": "Töm och återställ städutrustningen. Se till att städvagnen är redo för nästa arbetspass."
+        }
+      ]
+    }
+  ]
+}

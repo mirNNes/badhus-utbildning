@@ -1,0 +1,55 @@
+{
+  "passScore": 4,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Vad är ett viktigt moment vid kvällsstädning av bassängområdet?",
+      "options": [
+        "Spola av ytor och skrapa golven torra så att inga halkrisker finns kvar",
+        "Låta golven självtorka över natten utan åtgärd",
+        "Endast plocka upp skräp och hoppa över avspolning"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Hur ska simredskap och utrustning hanteras vid kvällsstäd?",
+      "options": [
+        "Plockas undan och ställas tillbaka på avsedd plats",
+        "Lämnas framme så att morgonpersonalen ser vad som använts",
+        "Samlas i en hög vid bassängkanten"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Vad ingår i kvällsstädning av korridorer och bassängtoaletter?",
+      "options": [
+        "Moppa gångstråk, rengöra toalettstol, handfat och beröringsytor samt fylla på förbrukningsmaterial",
+        "Endast tömma papperskorgar",
+        "Endast moppa golvet och hoppa över toalettstädning"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Hur ska duschutrymmen i omklädningsrum lämnas efter kvällsstäd?",
+      "options": [
+        "Noggrant avspolade, golven skrapade torra och beröringsytor rengjorda",
+        "Blöta så att morgonpersonalen ser att de är nystädade",
+        "Endast snabbt avsköljda utan kontroll av brunnar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Vad är syftet med den avslutande slutkontrollen?",
+      "options": [
+        "Säkerställa att alla ytor är rena, torra, i ordning och utan halkrisk inför nästa dag",
+        "Kontrollera att så lite städmaterial som möjligt har använts",
+        "Låsa lokalerna så snabbt som möjligt oavsett skick"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

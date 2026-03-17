@@ -1,0 +1,119 @@
+{
+  "id": "underhallsstad_omkladningsrum",
+  "title": "Underhållsstäd",
+  "version": "2.0.0",
+  "slides": [
+    {
+      "id": "s1",
+      "type": "galleryStep",
+      "title": "Underhållsstäd – syfte och arbetssätt",
+      "body": "Underhållsstäd utförs löpande under öppettid och anpassas efter hur många gäster som vistas i anläggningen. Syftet är att upprätthålla god hygien, säkerhet och trivsel under hela dagen.\n\nArbetet sker medan gäster använder anläggningen, vilket innebär att städningen behöver utföras diskret, säkert och effektivt.\n\n[CARD-YELLOW]\nVarför detta är viktigt\nGenom regelbundet underhållsstäd minskar smutsuppbyggnad, halkrisk och behovet av mer omfattande städning senare under dagen.\n\n--- Arbetsprincip ---\n- Anpassa städningen efter belastningen\n- Arbeta säkert när gäster finns i närheten\n- Åtgärda smuts och problem direkt\n\n[CARD]\nMålet med momentet\nOmklädningsrum och våtutrymmen ska under hela dagen upplevas rena, säkra och välskötta.",
+      "images": [
+        {
+          "src": "/modules/underhall/images/under_moppa.png",
+          "alt": "Underhållsstäd under öppettid",
+          "caption": "Städning medan verksamheten pågår",
+          "text": "Underhållsstäd utförs medan gäster vistas i anläggningen. Arbeta diskret och anpassa insatsen efter belastningen."
+        },
+        {
+          "src": "/modules/underhall/images/under_maskin.png",
+          "alt": "Kombiskurmaskin i omklädningsrum",
+          "caption": "Förebyggande golvvård",
+          "text": "Regelbunden körning med kombiskurmaskin minskar smutsuppbyggnad och halkrisk."
+        },
+        {
+          "src": "/modules/underhall/images/kombi_galerian.png",
+          "alt": "Kombiskurmaskin i omklädningsrum",
+          "caption": "Regelbunden golvrengöring",
+          "text": "Maskinell rengöring hjälper till att hålla golven rena och säkra även under hög belastning."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "type": "galleryStep",
+      "title": "Våtsida – toaletter",
+      "body": "Toaletter i omklädningsrum används ofta och behöver därför kontrolleras och städas regelbundet under dagen.\n\nByt soppåsar och fyll på förbrukningsmaterial vid behov. Rengör toalettstol, handfat, speglar och beröringsytor.\n\nArbeta metodiskt uppifrån och ner samt från renare till smutsigare ytor.\n\n[CARD-YELLOW]\nVarför detta är viktigt\nRena toaletter minskar smittspridning och bidrar till att gäster upplever anläggningen som hygienisk och välskött.\n\n--- Kontrollpunkter ---\n- Toalettpapper, tvål och handdukar är påfyllda\n- Soppåsar är bytta\n- Beröringsytor är rengjorda\n- Golvet är rent och säkert\n\n[CARD]\nAvsluta alltid\nFuktmoppa golvet och säkerställ att toaletten upplevs ren och välkomnande innan du lämnar utrymmet.",
+      "images": [
+        {
+          "src": "/modules/underhall/images/pafyll.png",
+          "alt": "Påfyllning av förbrukningsmaterial",
+          "caption": "Kontroll och påfyllning",
+          "text": "Kontrollera och fyll på toalettpapper, tvål och handdukar. Byt soppåsar vid behov."
+        },
+        {
+          "src": "/modules/underhall/images/mopa_toalett.png",
+          "alt": "Rengöring av toalett",
+          "caption": "Noggrann rengöring",
+          "text": "Rengör toalettstol, handfat, speglar och beröringsytor. Arbeta uppifrån och ner."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "type": "galleryStep",
+      "title": "Våtsida – duschutrymmen",
+      "body": "Duschutrymmen kräver regelbunden tillsyn eftersom vatten, hår och smuts snabbt kan samlas på golv och ytor.\n\nPlocka bort hårtussar, skräp, snusprillor och tomma schampoflaskor. Skrapa golv och samla vatten och smuts mot brunnarna.\n\nAvfläcka väggar vid behov och ställ i ordning duschstolar, barnstolar och annan utrustning.\n\n[CARD-YELLOW]\nSärskild risk\nVåta golv kan snabbt bli hala. Regelbunden kontroll och skrapning minskar halkrisken och ökar säkerheten.\n\n[CARD]\nDet här ska du alltid kontrollera\nGolven ska vara fria från skräp, vatten ska ledas mot brunnarna och utrustning ska stå i ordning.",
+      "images": [
+        {
+          "src": "/modules/underhall/images/skrapa_dusch.png",
+          "alt": "Skrapning av duschgolv",
+          "caption": "Golvet skrapas mot brunn",
+          "text": "Avlägsna hår, skräp och smuts. Skrapa golvet och samla vatten mot brunnarna."
+        },
+        {
+          "src": "/modules/underhall/images/dusch_ordning.png",
+          "alt": "Iordningställda duschstolar",
+          "caption": "Ordning och säkerhet",
+          "text": "Ställ i ordning duschstolar och annan utrustning så att miljön är säker och strukturerad."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "type": "galleryStep",
+      "title": "Torrsida – omklädningsdel",
+      "body": "På torrsidan ska golv, skåp och bänkar hållas rena och i ordning under hela dagen.\n\nByt soppåsar och avfläcka skåp, bänkar och andra beröringsytor. Moppa golvet och avlägsna synligt skräp.\n\nEftersom vatten ofta dras in från våtutrymmen behöver golven kontrolleras regelbundet.\n\n[CARD-YELLOW]\nVarför detta är viktigt\nVatten på golven kan skapa halkrisk. Regelbunden rengöring och maskinkörning hjälper till att hålla golven torra och säkra.\n\n--- Arbetsmoment ---\n- Avlägsna skräp från golv\n- Moppa gångstråk\n- Torka av skåp och bänkar\n- Kör kombiskurmaskin vid behov\n\n[CARD]\nMålet\nOmklädningsrummet ska upplevas rent, strukturerat och säkert för gästerna.",
+      "images": [
+        {
+          "src": "/modules/underhall/images/under_moppa.png",
+          "alt": "Moppning av golv i omklädningsrum",
+          "caption": "Rena och torra golv",
+          "text": "Moppa golvet och avlägsna synligt skräp. Säkerställ att golven lämnas torra."
+        },
+        {
+          "src": "/modules/underhall/images/under_maskin.png",
+          "alt": "Körning av kombiskurmaskin",
+          "caption": "Maskinell golvrengöring",
+          "text": "Kombiskurmaskin bör köras regelbundet även på torrsidan."
+        },
+        {
+          "src": "/modules/underhall/images/ordning_under.png",
+          "alt": "Iordningställda skåp och bänkar",
+          "caption": "Ordning på torrsidan",
+          "text": "Torka av skåp, bänkar och beröringsytor. Ett ordnat omklädningsrum ökar trivseln."
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "type": "galleryStep",
+      "title": "Avslut och kvalitetskontroll",
+      "body": "När underhållsstädet är genomfört ska en kort slutkontroll göras av både våt- och torrsida.\n\nSyftet är att säkerställa att inga moment har missats och att utrymmena upplevs rena och säkra för gästerna.\n\n[CARD-YELLOW]\nVarför slutkontrollen är viktig\nEn snabb kontroll i slutet av arbetet minskar risken för missade ytor och säkerställer en jämn kvalitet i städningen.\n\n--- Kontrollera ---\n- Golven är rena och torra\n- Soppåsar är bytta\n- Förbrukningsmaterial är påfyllt\n- Utrustning står i ordning\n\n[CARD]\nAvslut\nTöm använda moppar och dukar och förbered städvagnen inför nästa arbetspass.",
+      "images": [
+        {
+          "src": "/modules/underhall/images/slutkontroll.png",
+          "alt": "Slutkontroll av omklädningsrum",
+          "caption": "Kvalitetskontroll",
+          "text": "Gör en systematisk slutkontroll av våt- och torrsida. Säkerställ att inga ytor missats."
+        },
+        {
+          "src": "/modules/underhall/images/vagn_under.png",
+          "alt": "Städvagn med rena moppar",
+          "caption": "Redo för nästa pass",
+          "text": "Töm använda moppar och fyll på med rena. Förbered städvagnen inför nästa arbetspass."
+        }
+      ]
+    }
+  ]
+}

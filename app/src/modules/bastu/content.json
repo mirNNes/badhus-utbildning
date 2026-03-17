@@ -1,0 +1,111 @@
+{
+  "id": "bastu",
+  "title": "Bastu",
+  "version": "1.0.0",
+  "slides": [
+    {
+      "id": "s1",
+      "type": "galleryStep",
+      "title": "Torr-/våtbastu – Daglig rengöring",
+      "body": "Bastun är en varm och fuktig miljö där många gäster sitter direkt på träytor. För att upprätthålla god hygien och bevara materialens livslängd behöver bastun rengöras regelbundet och med rätt metod.\n\nDaglig städning ska alltid utföras när bastun är kall. Rekommendationen är att städa innan anläggningen öppnar så att ytorna hinner torka och bastun kan tas i bruk direkt när gästerna kommer.\n\nBastulavar rengörs med lätt mekanisk bearbetning och mild rengöringslösning, exempelvis såpa. Rengör både ovan- och undersida.\n\n[CARD-YELLOW]\nVarför detta är viktigt\nTräytor i bastu absorberar fukt, svett och smuts. Regelbunden rengöring minskar risken för lukt, missfärgningar och bakterietillväxt samtidigt som träets livslängd förlängs.\n\n[CARD]\nDet här ska du tänka på\nUndvik att spola vatten direkt på bastulavarna. Fukt kan tränga ner mellan springorna, binda smuts och skada trämaterialet.\n\nGolvet rengörs enligt samma principer som i duschutrymmen.",
+      "images": [
+        {
+          "src": "/modules/bastu/images/bastu_borste.png",
+          "alt": "Rengöring av bastulavar",
+          "caption": "Mild rengöring av träytor",
+          "text": "Rengör bastulavarna när bastun är kall. Använd mjuk borste och mild lösning som såpa. Rengör både ovan- och undersida."
+        },
+        {
+          "src": "/modules/bastu/images/bastu_golv.png",
+          "alt": "Rengöring av bastugolv",
+          "caption": "Golvrengöring i bastu",
+          "text": "Golvet rengörs enligt rutinen för duschutrymmen. Undvik att spola vatten direkt på lavarna."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "type": "galleryStep",
+      "title": "Torr-/våtbastu – Underhåll under dagen",
+      "body": "Under öppettid behöver bastun kontrolleras och underhållas löpande eftersom många gäster använder utrymmet.\n\nBastulavarna torkas regelbundet av med en lätt fuktad trasa. Använd mild rengöringslösning i avtorkningsvattnet.\n\nGolvet kan spolas av vid behov och smuts som samlas i golvbrunnar ska tas bort direkt.\n\n[CARD-YELLOW]\nViktigt arbetssätt\nUnderhållsstädning ska vara snabb och effektiv. Målet är att hålla ytor rena utan att blötlägga träet eller skapa onödig fukt i bastun.\n\n--- Kontrollpunkter ---\n- Torka av bastulavar vid behov\n- Ta bort synlig smuts från golv\n- Rensa golvbrunnar från skräp\n- Kontrollera att bastun upplevs ren och trivsam\n\n[CARD]\nKom ihåg\nÖverdriven fukt kan orsaka missfärgning, luktproblem och förkortad livslängd på träet.",
+      "images": [
+        {
+          "src": "/modules/bastu/images/torka_lavar.png",
+          "alt": "Avtorkning av bastulav",
+          "caption": "Underhåll under öppettid",
+          "text": "Torka bastulavar regelbundet med lätt fuktad trasa och mild lösning i vattnet."
+        },
+        {
+          "src": "/modules/bastu/images/bastu_dorr.png",
+          "alt": "Rengöring av golvbrunn i bastu",
+          "caption": "Smuts tas bort från brunn",
+          "text": "Spola golv vid behov och ta bort smuts i golvbrunnar direkt för att säkerställa god avrinning."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "type": "galleryStep",
+      "title": "Torr-/våtbastu – Veckostäd och kontroll",
+      "body": "Utöver den dagliga städningen behöver bastun regelbundet kontrolleras och underhållas för att säkerställa att utrustning och material fungerar som de ska.\n\nVäggar kan vid behov torkas av med mild såplösning och mjuk trasa. Vid missfärgningar kan träytan slipas lätt på berörd yta.\n\nKontrollera bastustenarna i aggregatet. Trasiga eller smutsiga stenar ska kasseras och ersättas enligt leverantörens rekommendationer.\n\n[CARD-YELLOW]\nVarför kontrollen är viktig\nBastustenar påverkar värmefördelning och luftflöde. Skadade eller smutsiga stenar kan försämra bastuns funktion och skapa ojämn värme.\n\n--- Kontrollera detta regelbundet ---\n- Bastuaggregat och stenar\n- Tätningslister vid dörr och glaspartier\n- Ventilation och luftflöde\n- Golvbrunnar och avrinning\n\n[CARD]\nUnderhåll av trä\nImpregnera obehandlade trädetaljer med olja vid behov och byt ut skadade delar.",
+      "images": [
+        {
+          "src": "/modules/bastu/images/checka_agregat.png",
+          "alt": "Kontroll av bastustenar",
+          "caption": "Kontroll av bastuaggregat",
+          "text": "Kontrollera bastuaggregat och stenar regelbundet och ersätt skadade stenar vid behov."
+        },
+        {
+          "src": "/modules/bastu/images/bastustenar.png",
+          "alt": "Kontroll av bastustenar",
+          "caption": "Bastustenarnas skick",
+          "text": "Stenarnas skick påverkar värme och luftflöde i bastun."
+        },
+        {
+          "src": "/modules/bastu/images/olja_bastu.png",
+          "alt": "Olja bastulavar",
+          "caption": "Impregnering av trä",
+          "text": "Oljebehandling kan skydda träytor och förlänga deras livslängd."
+        },
+        {
+          "src": "/modules/bastu/images/rensa_ventilation.png",
+          "alt": "Ventilationsrengöring i bastu",
+          "caption": "Ventilation och tätningslister",
+          "text": "Kontrollera ventilationen och rengör tätningslister vid behov."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "type": "galleryStep",
+      "title": "Ångbastu – Rengöring och hygien",
+      "body": "Ångbastun har mycket hög luftfuktighet och varma ytor, vilket gör att kalk, smuts och biofilm lätt kan bildas. Därför krävs regelbunden och noggrann rengöring.\n\nAll städning i ångbastu ska utföras när utrymmet är kallt.\n\nRengör sittbänkar, väggar och golv enligt samma principer som för duschutrymmen och toaletter.\n\n[CARD-YELLOW]\nSärskild hygienrisk\nDen höga luftfuktigheten gör att kalkbeläggningar och biofilm kan bildas snabbt. Regelbunden rengöring är därför avgörande för både hygien och materialens livslängd.\n\n--- Viktiga moment ---\n- Rengör sittbänkar och väggar\n- Bearbeta ytor mekaniskt vid beläggningar\n- Säkerställ att golvbrunnar är fria\n- Avkalka glasytor regelbundet\n\n[CARD]\nAvkalkning\nGlasdörrar ska torkas med surt rengöringsmedel för att avlägsna kalk. Skölj alltid noggrant efteråt.",
+      "images": [
+        {
+          "src": "/modules/bastu/images/angbastu_spola.png",
+          "alt": "Rengöring av ångbastu",
+          "caption": "Rengöring av ytor",
+          "text": "All städning i ångbastu ska göras när utrymmet är kallt."
+        },
+        {
+          "src": "/modules/bastu/images/angbastu_borsta.png",
+          "alt": "Rengöring av ångbastu",
+          "caption": "Mekanisk rengöring",
+          "text": "Bearbeta ytor mekaniskt för att få bort biofilm och beläggningar."
+        },
+        {
+          "src": "/modules/bastu/images/angbastu_skruba.png",
+          "alt": "Rengöring av ångbastu",
+          "caption": "Arbeta metodiskt",
+          "text": "Arbeta uppifrån och ner och säkerställ att avrinningen fungerar."
+        },
+        {
+          "src": "/modules/bastu/images/angbastu_kalk.png",
+          "alt": "Kalkbeläggning på glas",
+          "caption": "Avkalkning av glas",
+          "text": "Glasdörrar avkalkas regelbundet med surt rengöringsmedel."
+        }
+      ]
+    }
+  ]
+}

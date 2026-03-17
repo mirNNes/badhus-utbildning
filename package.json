@@ -1,0 +1,52 @@
+{
+  "name": "badhus-utbildning",
+  "version": "0.1.0",
+  "description": "Badhus utbildning desktop app",
+  "main": "electron/main.js",
+  "private": true,
+  "scripts": {
+    "dev:app": "npm --prefix app run dev",
+    "dev": "concurrently -k \"npm run dev:app\" \"wait-on http://localhost:5173 && electron .\"",
+    "build:app": "npm --prefix app run build",
+    "dist": "npm run build:app && electron-builder",
+    "dist:win": "npm run build:app && electron-builder --win",
+    "dist:mac": "npm run build:app && electron-builder --mac",
+    "dist:linux": "npm run build:app && electron-builder --linux"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "electron": "^40.2.1",
+    "electron-builder": "^25.1.8",
+    "wait-on": "^9.0.3"
+  },
+  "build": {
+    "appId": "com.badhus.utbildning",
+    "productName": "Badhus Utbildning",
+    "directories": {
+    "output": "release",
+    "app": "."
+    },
+    "files": [
+      "electron/**/*",
+      "app/dist/**/*",
+      "package.json"
+    ],
+    "asar": true,
+    "win": {
+      "target": [
+        "nsis",
+        "portable"
+      ]
+    },
+    "mac": {
+      "target": [
+        "dmg"
+      ]
+    },
+    "linux": {
+      "target": [
+        "AppImage"
+      ]
+    }
+  }
+}

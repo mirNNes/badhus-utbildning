@@ -1,0 +1,58 @@
+{
+  "passScore": 4,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Vad är huvudsyftet med underhållsstäd i omklädningsrum?",
+      "options": [
+        "Att upprätthålla god hygien, säkerhet och trivsel under öppettid",
+        "Att endast fokusera på golvrengöring",
+        "Att ersätta kvällsstäd helt och hållet"
+ 
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Hur ska arbetet i toalettutrymmen utföras vid underhållsstäd?",
+      "options": [
+        "Börja med golvet och avsluta med handfatet",
+        "Arbeta uppifrån och ner samt från renare till smutsigare ytor",
+        "Städa i slumpmässig ordning för att spara tid"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Vad är viktigt att göra i duschutrymmen under dagen?",
+      "options": [
+
+        "Plocka bort hår och skräp samt skrapa golvet mot brunnarna",
+        "Endast kontrollera temperaturen i duscharna",
+        "Låta vattnet ligga kvar för att visa att det är använt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Varför bör kombiskurmaskin köras regelbundet även på torrsidan?",
+      "options": [
+        "För att golven ska bli blanka oavsett behov",
+        "Vatten från våtutrymmen kan göra golven hala",
+        "För att minska behovet av att tömma papperskorgar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Vad ingår i avslutande kvalitetskontroll?",
+      "options": [
+        
+        "Endast låsa dörrarna till omklädningsrummet",
+        "Kontrollera att våt- och torrsida är rena, torra och i ordning samt förbereda städutrustning",
+        "Ställa undan städvagnen utan att byta moppar"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

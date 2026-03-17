@@ -1,0 +1,55 @@
+{
+"passScore": 4,
+"questions": [
+{
+"id": 1,
+"question": "När ska daglig städning i bastun utföras enligt rekommendation?",
+"options": [
+"När bastun är kall, gärna på morgonen innan anläggningen öppnar",
+"Mitt under öppettid när gästerna bastar",
+"Direkt efter att aggregatet körts på hög värme"
+],
+"correctIndex": 0
+},
+{
+"id": 2,
+"question": "Hur bör bastulavar rengöras för att vara skonsam mot träet?",
+"options": [
+"Med lätt mekanisk bearbetning (t.ex. mjuk borste) och mild rengöringslösning som såpa",
+"Genom att spola lavarna rikligt med vatten för att desinficera",
+"Med slipande medel för att ta bort missfärgningar snabbt"
+],
+"correctIndex": 0
+},
+{
+"id": 3,
+"question": "Varför ska man undvika att spola lavarna med mycket vatten?",
+"options": [
+"Fukt kan tränga ner mellan springor, binda smuts och skada trämaterialet",
+"Det är för tidskrävande jämfört med att använda ångrengöring",
+"Vatten gör träet för vitt och förlorar sin naturliga lyster"
+],
+"correctIndex": 0
+},
+{
+"id": 4,
+"question": "Vilken rutin är viktig för att minska lukt och förbättra avrinning i bastun?",
+"options": [
+"Rengöra golvbrunnar och ta bort smuts regelbundet",
+"Låta smuts och hår ligga i brunnarna så de kan lösas upp naturligt",
+"Täcka brunnarna med plast för att förhindra intrång"
+],
+"correctIndex": 0
+},
+{
+"id": 5,
+"question": "Hur ska glasdörrar i ångbastu hanteras för att avlägsna kalk?",
+"options": [
+"Avkalkas regelbundet med surt rengöringsmedel enligt rutin och sköljas noga",
+"Användas utan rengöring eftersom varm ånga löser kalk automatiskt",
+"Skrapas med slipande pad för att få bort kalk snabbt"
+],
+"correctIndex": 0
+}
+]
+}

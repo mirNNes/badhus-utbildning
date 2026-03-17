@@ -1,0 +1,55 @@
+{
+  "passScore": 4,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Vad är syftet med en tydlig skogräns i badhusets entré?",
+      "options": [
+        "Att förhindra att smuts, grus och bakterier förs från smutsig zon till ren zon",
+        "Att skapa en dekorativ markering i entrén",
+        "Att minska behovet av daglig städning"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "I vilken ordning ska städning utföras enligt zonprincipen?",
+      "options": [
+        "Smutsig zon först, därefter ren zon efter rengjord/bytt utrustning",
+        "Ren zon först för att den ska hålla längst",
+        "Zonerna kan städas i valfri ordning"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Varför bör separata städredskap användas för olika zoner?",
+      "options": [
+        "För att minska risken för korskontaminering",
+        "För att redskapen ska slitas jämnt",
+        "För att det ser mer professionellt ut"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Vilken risk kan uppstå vid bristande zonhantering?",
+      "options": [
+        "Smuts kan spridas vidare till omklädningsrum och bassängområde",
+        "Golven blir för torra",
+        "Markeringarna i golvet bleknar snabbare"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Vad är viktigt efter städning av övergångszonen?",
+      "options": [
+        "Att golvet lämnas torrt och att markeringar samt passage kontrolleras",
+        "Att området spärras av resten av dagen",
+        "Att golvet lämnas lätt fuktigt för att visa att det är nystädat"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

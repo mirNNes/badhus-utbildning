@@ -1,0 +1,87 @@
+{
+  "id": "leksaker",
+  "title": "Leksaker och flytredskap",
+  "version": "0.1.0",
+  "slides": [
+    {
+      "id": "s1",
+      "type": "galleryStep",
+      "title": "Daglig kontroll av leksaker",
+      "body": "Leksaker och flytredskap som används i bassängen behöver kontrolleras dagligen för att vara säkra att använda och enkla att hålla hygieniska.\n\nI en bassängmiljö utsätts utrustningen för vatten, slitage och upprepad användning. Därför kan sprickor, skador och lösa delar snabbt uppstå om kontrollen brister.\n\n[CARD-YELLOW]\nVarför detta är viktigt\nSkadade leksaker och flytredskap kan orsaka skärsår, klämskador eller andra olyckor. De kan också vara svårare att rengöra och därmed innebära en hygienrisk.\n\n--- Det här ska du kontrollera ---\n- Att redskapen inte är spruckna eller trasiga\n- Att det inte finns vassa kanter eller lösa delar\n- Att materialet inte är missfärgat eller skadat\n\n[CARD]\nKom ihåg\nSkadade leksaker och flytredskap ska tas ur bruk direkt och hanteras enligt anläggningens rutin.",
+      "images": [
+        {
+          "src": "/modules/leksaker/images/checka_lek.png",
+          "alt": "Kontroll av bassängleksaker",
+          "caption": "Visuell kontroll",
+          "text": "Genomför en daglig visuell kontroll av alla leksaker och flytredskap. Leta efter sprickor, skador och lösa delar."
+        },
+        {
+          "src": "/modules/leksaker/images/sprucken_lek.png",
+          "alt": "Sprucken poolleksak",
+          "caption": "Skadad – ska tas ur bruk",
+          "text": "Spruckna eller skadade leksaker ska tas ur bruk omedelbart. De kan orsaka skador och är svårare att hålla hygieniska."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "type": "galleryStep",
+      "title": "Rengöring och desinfektion",
+      "body": "Leksaker och flytredskap ska rengöras och desinfekteras regelbundet enligt anläggningens rutiner.\n\nI en fuktig bassängmiljö kan bakterier och mikroorganismer lätt fästa på ytor, särskilt i små sprickor, skarvar och porösa material. Därför är regelbunden rengöring en viktig del av hygienarbetet.\n\n[CARD-YELLOW]\nVarför detta är viktigt\nRengöring och desinfektion minskar risken för smittspridning, motverkar biofilm och hjälper till att bevara utrustningens skick över tid.\n\n--- Viktiga moment ---\n- Skölj och rengör redskapen regelbundet\n- Avlägsna synlig smuts och organiskt material\n- Desinfektera enligt gällande rutin\n- Låt redskapen hanteras och förvaras på ett hygieniskt sätt\n\n[CARD]\nMålet med momentet\nLeksaker och flytredskap ska vara rena, säkra och redo att användas utan att bidra till smuts- eller bakteriespridning i bassängmiljön.",
+      "images": [
+        {
+          "src": "/modules/leksaker/images/spola_lek.png",
+          "alt": "Rengöring av flytredskap",
+          "caption": "Rengöring",
+          "text": "Skölj och rengör leksaker regelbundet enligt rutin. Avlägsna synlig smuts och organiskt material innan desinfektion."
+        },
+        {
+          "src": "/modules/leksaker/images/desinf_lek.png",
+          "alt": "Desinfektion av poolleksaker",
+          "caption": "Desinfektion",
+          "text": "Desinfektera enligt anläggningens riktlinjer. Regelbunden desinfektion minskar risken för bakterietillväxt och smittspridning."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "type": "galleryStep",
+      "title": "Simkorvar och simplattor",
+      "body": "Simkorvar, simplattor och andra redskap av skum- eller plastmaterial behöver kontrolleras extra noggrant eftersom materialet lätt kan brytas ner med tiden.\n\nNär ytan blir sprucken, porös eller skadad fastnar smuts och bakterier lättare, samtidigt som redskapet blir svårare att rengöra ordentligt.\n\n[CARD-YELLOW]\nSärskild risk\nSkadat skum- eller plastmaterial kan samla bakterier i sprickor och ojämnheter. Det försämrar både hygienen och utrustningens funktion.\n\n--- Tecken att vara uppmärksam på ---\n- Sprickor i materialet\n- Nedbrutna eller porösa ytor\n- Missfärgning eller tydligt slitage\n- Delar som lossnar eller förändrad form\n\n[CARD]\nDet här gäller alltid\nSkadade simkorvar, simplattor och liknande redskap ska bytas ut utan dröjsmål.",
+      "images": [
+        {
+          "src": "/modules/leksaker/images/hel_korv.png",
+          "alt": "Hel simkorv",
+          "caption": "Hel och ren",
+          "text": "En hel och oskadad simkorv är lättare att hålla ren och säker att använda."
+        },
+        {
+          "src": "/modules/leksaker/images/sprucken_korv.png",
+          "alt": "Skadad simkorv med sprickor",
+          "caption": "Skadad – ska bytas ut",
+          "text": "Sprickor och nedbrutet material samlar smuts och bakterier. Skadade redskap ska bytas ut utan dröjsmål."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "type": "galleryStep",
+      "title": "Förvaring och livslängd",
+      "body": "Efter rengöring ska leksaker och flytredskap förvaras torrt och luftigt. Förvaringen är viktig både för hygien, ordning och utrustningens livslängd.\n\nOm redskapen blir liggande fuktigt eller instängt ökar risken för dålig lukt, bakterietillväxt och snabbare nedbrytning av materialet.\n\n[CARD-YELLOW]\nVarför detta är viktigt\nGod förvaring gör det lättare att hålla utrustningen ren, upptäcka skador i tid och minska risken för att fukt skapar hygienproblem.\n\n--- God rutin för förvaring ---\n- Förvara redskapen torrt och luftigt\n- Håll ordning så att kontroll blir enkel\n- Låt utrustningen torka efter rengöring\n- Byt ut skadade produkter i tid\n\n[CARD]\nMålet med momentet\nEn välordnad förvaring bidrar till en säkrare, renare och mer hygienisk badmiljö för alla gäster.",
+      "images": [
+        {
+          "src": "/modules/leksaker/images/leksaker_luft.png",
+          "alt": "Torr förvaring av flytredskap",
+          "caption": "Torr och luftig förvaring",
+          "text": "Förvara leksaker torrt och luftigt efter rengöring. God ventilation minskar risken för bakterietillväxt."
+        },
+        {
+          "src": "/modules/leksaker/images/redskap_ordna.png",
+          "alt": "Förvaringsställ för simplattor",
+          "caption": "Ordning och hygien",
+          "text": "Ordning i förvaringen gör det lättare att kontrollera utrustningens skick och bidrar till en hygienisk bassängmiljö."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "passScore": 4,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Vilken skyddsutrustning ska alltid användas vid rengöring av duschväggar och duschgolv?",
+      "options": [
+        "Handskar, skyddsglasögon och vattentåliga skor/stövlar",
+        "Endast engångshandskar, resten behövs inte i våta utrymmen",
+        "Bara skyddsglasögon eftersom kemikalier inte påverkar huden"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Vilket är rätt första steg i rengöringsprocessen för duschväggar och duschgolv?",
+      "options": [
+        "Spola av väggar och golv med vatten för att ta bort lös smuts",
+        "Applicera surt rengöringsmedel direkt på torra ytor",
+        "Börja med att borsta fogarna torra innan någon sköljning"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Hur ska alkaliskt rengöringsmedel normalt appliceras och hanteras på väggar/golv?",
+      "options": [
+        "Applicera med skumspruta eller via hink och låt verka enligt anvisning",
+        "Spraya snabbt och skölj direkt utan verkningstid",
+        "Blanda extra starkt och låt torka in för bättre effekt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Varför ska singelskurmaskinen köras i lugnt tempo vid golvrengöring?",
+      "options": [
+        "För att borsten ska hinna rengöra fogarna ordentligt",
+        "För att undvika att vattnet rinner mot väggarna",
+        "För att kemikalierna inte ska skumma för mycket"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Vad är viktigt efter användning av surt rengöringsmedel mot kalk- och mineralbeläggningar?",
+      "options": [
+        "Skölja ytorna noggrant så att inga kemikalierester finns kvar",
+        "Låta medlet ligga kvar som en skyddsfilm",
+        "Skölja med varmt vatten först och sedan låta lufttorka utan mer åtgärd"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

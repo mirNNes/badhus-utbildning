@@ -1,0 +1,169 @@
+{
+  "id": "duschutrymme",
+  "title": "Omklädningsrum",
+  "version": "0.1.0",
+  "slides": [
+    {
+      "id": "s1",
+      "type": "galleryStep",
+      "title": "Skyddsutrustning",
+      "body": "Duschutrymmen städas ofta med vatten, mekanisk bearbetning och rengöringsmedel. Därför är det viktigt att alltid använda rätt skyddsutrustning under arbetet.\n\nSkyddsutrustning minskar risken för hudkontakt med kemikalier, skyddar ögonen mot stänk och minskar halkrisken i våta miljöer.\n\n[CARD-YELLOW]\nVarför detta är viktigt\nVid arbete i duschutrymmen finns risk för exponering för kemikalier, stänk och hala golv. Rätt skyddsutrustning skapar en säkrare arbetsmiljö och minskar risken för skador.\n\n[CARD]\nDet här ska du alltid använda\n- Skyddshandskar\n- Skyddsglasögon\n- Vattentåliga skor eller stövlar",
+      "images": [
+        {
+          "src": "/modules/duschutrymme/images/skydd.png",
+          "alt": "Skyddshandskar vid städning",
+          "caption": "Skyddsutrustning vid städning",
+          "text": "Använd alltid handskar, skyddsglasögon och vattentåliga skor när du städar duschutrymmen."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "type": "galleryStep",
+      "title": "Duschväggar och sittytor – rengöringsprocess",
+      "body": "Rengöring av duschutrymmen ska utföras metodiskt för att effektivt avlägsna smuts, hudrester och biofilm.\n\nArbetet börjar med att väggar och golv spolas av med vatten för att avlägsna lös smuts. Därefter appliceras alkaliskt rengöringsmedel med skumspruta eller via hink.\n\nLåt rengöringsmedlet verka enligt anvisning så att smuts och organiska föroreningar löses upp.\n\nYtorna bearbetas sedan mekaniskt med skurblock eller borste.\n\n[CARD-YELLOW]\nArbetsprincip\nMekanisk bearbetning är avgörande för att få bort biofilm och smuts från ytor. Rengöringsmedlet löser upp smutsen, men det är bearbetningen som avlägsnar den.\n\n--- Viktiga moment ---\n- Spola av ytor före rengöring\n- Applicera alkaliskt rengöringsmedel\n- Bearbeta ytor mekaniskt\n- Rengör sittbänkar och kontaktzoner\n\n[CARD]\nExtra viktig yta\nFogar samlar ofta smuts och biofilm. Använd fogborste och rengör dem noggrant.",
+      "images": [
+        {
+          "src": "/modules/duschutrymme/images/avspolning.png",
+          "alt": "Avspolning av duschvägg",
+          "caption": "Avspolning före rengöring",
+          "text": "Börja alltid med att spola av väggar och golv för att avlägsna lös smuts."
+        },
+        {
+          "src": "/modules/duschutrymme/images/skumspruta.png",
+          "alt": "Applicering med skumspruta",
+          "caption": "Applicering av rengöringsmedel",
+          "text": "Applicera alkaliskt rengöringsmedel med skumspruta eller via hink och låt verka enligt anvisning."
+        },
+        {
+          "src": "/modules/duschutrymme/images/vagskrub.png",
+          "alt": "Mekanisk bearbetning",
+          "caption": "Mekanisk rengöring",
+          "text": "Bearbeta ytor med skurblock eller borste för att avlägsna biofilm och smuts."
+        },
+        {
+          "src": "/modules/duschutrymme/images/skruba.png",
+          "alt": "Mekanisk rengöring",
+          "caption": "Arbeta metodiskt",
+          "text": "Arbeta över hela ytan och säkerställ att alla kontaktzoner rengörs."
+        },
+        {
+          "src": "/modules/duschutrymme/images/fog.png",
+          "alt": "Rengöring av fogar",
+          "caption": "Noggrann rengöring av fogar",
+          "text": "Fogar kräver extra noggrannhet eftersom smuts och biofilm lätt samlas där."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "type": "galleryStep",
+      "title": "Golv – rengöring och avslut",
+      "body": "Golvet spolas först av med vatten innan rengöringsmedel appliceras.\n\nDärefter bearbetas golvet mekaniskt med singelskurmaskin. Maskinen ska köras i lugnt tempo så att borsten hinner arbeta ner i fogarna.\n\nEfter bearbetning ska golvet sköljas noggrant med kallt vatten för att avlägsna smuts och kemikalierester.\n\n[CARD-YELLOW]\nVarför sköljning är viktigt\nOm kemikalierester lämnas kvar på golvet kan de påverka både material och säkerhet. Noggrann sköljning är därför ett viktigt moment.\n\n--- Arbetssteg ---\n- Spola golvet\n- Applicera rengöringsmedel\n- Bearbeta mekaniskt\n- Skölj noggrant\n\n[CARD]\nAvslutning\nSkrapa vattnet mot golvbrunnarna eller sug upp med kombimaskin för att lämna golvet rent och säkert.",
+      "images": [
+        {
+          "src": "/modules/duschutrymme/images/vatskrub.png",
+          "alt": "Singelskurmaskin i dusch",
+          "caption": "Maskinell rengöring",
+          "text": "Bearbeta golvet med singelskurmaskin i lugnt tempo så att fogarna rengörs ordentligt."
+        },
+        {
+          "src": "/modules/duschutrymme/images/golv_kalk.png",
+          "alt": "Kalk på golv",
+          "caption": "Kalkavlagringar",
+          "text": "Vid kalkbeläggningar kan surt rengöringsmedel behöva användas."
+        },
+        {
+          "src": "/modules/duschutrymme/images/dusch_spola.png",
+          "alt": "Avspolning av golv",
+          "caption": "Noggrann sköljning",
+          "text": "Skölj alltid ytor noggrant efter rengöring."
+        },
+        {
+          "src": "/modules/duschutrymme/images/skrapa.png",
+          "alt": "Vatten mot golvbrunn",
+          "caption": "Avslutande moment",
+          "text": "Skrapa vattnet mot golvbrunnen eller sug upp med maskin."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "type": "galleryStep",
+      "title": "Kalk- och mineralbeläggningar",
+      "body": "I duschutrymmen kan kalk- och mineralbeläggningar bildas på kakel, glas och golvytor.\n\nNär sådana beläggningar uppstår används surt rengöringsmedel enligt rutin.\n\n[CARD-YELLOW]\nSärskild utmaning\nKalkbeläggningar kan vara svåra att avlägsna om de får sitta kvar länge. Regelbunden rengöring förhindrar att beläggningar byggs upp.\n\n--- Viktiga moment ---\n- Applicera surt rengöringsmedel\n- Låt verka enligt anvisning\n- Bearbeta vid behov\n- Skölj alltid noggrant\n\n[CARD]\nKom ihåg\nEfter användning av surt medel ska ytorna alltid sköljas noggrant.",
+      "images": [
+        {
+          "src": "/modules/duschutrymme/images/dusch_kalk.png",
+          "alt": "Kalkbeläggning på kakel",
+          "caption": "Kalk före rengöring",
+          "text": "Kalk syns ofta som vita eller grå beläggningar på kakel och glas."
+        },
+        {
+          "src": "/modules/duschutrymme/images/sur.png",
+          "alt": "Applicering surt medel",
+          "caption": "Behandling med surt medel",
+          "text": "Applicera surt rengöringsmedel enligt anvisning."
+        },
+        {
+          "src": "/modules/duschutrymme/images/spola_sur.png",
+          "alt": "Sköljning surt medel",
+          "caption": "Noggrann sköljning",
+          "text": "Skölj alltid noggrant efter behandling."
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "type": "galleryStep",
+      "title": "Rostfria detaljer",
+      "body": "Rostfria detaljer som blandare och spolknappar är beröringsytor som används ofta och därför behöver rengöras regelbundet.\n\n[CARD-YELLOW]\nVarför detta är viktigt\nBeröringsytor samlar bakterier och smuts från händer. Regelbunden rengöring är viktig för att upprätthålla god hygien.\n\n[CARD]\nRengöringsmetod\nAnvänd lämpligt rengöringsmedel och mjuk svamp. Undvik slipande material som kan repa ytan.\n\nArbetet avslutas med att väggar och släta ytor torkas med mikromopp eller gummiskrapa.",
+      "images": [
+        {
+          "src": "/modules/duschutrymme/images/mirakel_dusch.png",
+          "alt": "Rengöring av blandare",
+          "caption": "Rostfria detaljer",
+          "text": "Rengör blandare och andra detaljer med mjuk svamp och rätt rengöringsmedel."
+        },
+        {
+          "src": "/modules/duschutrymme/images/skrapa_vag.png",
+          "alt": "Torkning med gummiskrapa",
+          "caption": "Avslutande avtorkning",
+          "text": "Torka väggar och släta ytor efter rengöring för att minska kalkbildning."
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "type": "galleryStep",
+      "title": "Brunnar – rengöring och kontroll",
+      "body": "Brunnar samlar hår, smuts och organiskt material. Därför behöver de rengöras regelbundet i samband med övrig städning av duschutrymmet.\n\n[CARD-YELLOW]\nVarför detta är viktigt\nSmutsiga brunnar kan orsaka dålig avrinning, luktproblem och bakterietillväxt.\n\n--- Arbetssteg ---\n- Öppna brunnslock\n- Ta upp vattenlåset\n- Avlägsna grov smuts\n- Rengör alla delar\n- Skölj och montera tillbaka\n\n[CARD]\nKontrollera alltid\nEfter återmontering ska du kontrollera att vattenlåset sitter korrekt och att brunnslocket är ordentligt på plats.",
+      "images": [
+        {
+          "src": "/modules/duschutrymme/images/tang.png",
+          "alt": "Öppning av brunn",
+          "caption": "Öppna brunnslock",
+          "text": "Öppna brunnslocket med rätt verktyg och ta upp vattenlåset."
+        },
+        {
+          "src": "/modules/duschutrymme/images/brun.png",
+          "alt": "Rengöring vattenlås",
+          "caption": "Rengör vattenlåset",
+          "text": "Borsta vattenlåset i varmt vatten med rengöringsmedel."
+        },
+        {
+          "src": "/modules/duschutrymme/images/insidan.png",
+          "alt": "Rengöring brunn",
+          "caption": "Rengör brunnens insida",
+          "text": "Rengör även brunnens insida och avlägsna beläggningar."
+        },
+        {
+          "src": "/modules/duschutrymme/images/montera.png",
+          "alt": "Återmontering",
+          "caption": "Korrekt återmontering",
+          "text": "Montera tillbaka vattenlåset korrekt innan arbetet avslutas."
+        }
+      ]
+    }
+  ]
+}
