@@ -1,16 +1,20 @@
 import { useNavigate } from "react-router-dom";
 import { appInfo } from "../appInfo";
 import "../styles/start.css";
-import { getAllModules } from "../modules/registry"; // ✅ lägg till
+import { getAllModules } from "../modules/registry";
 import { routes } from "../routes";
 
 export default function Start() {
   const navigate = useNavigate();
 
   const startTraining = () => {
-  const first = getAllModules()[0];
-  if (first) navigate(routes.module(first.id));
-};
+    const first = getAllModules()[0];
+    if (first) navigate(routes.module(first.id));
+  };
+
+  const goToModules = () => {
+    navigate(`${routes.modules}?review=true`);
+  };
 
   return (
     <div className="start-container">
@@ -27,6 +31,10 @@ export default function Start() {
           <div className="start-actions">
             <button className="primary-btn" onClick={startTraining}>
               Starta utbildning
+            </button>
+
+            <button className="secondary-btn" onClick={goToModules}>
+              Till modulerna
             </button>
           </div>
         </div>

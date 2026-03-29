@@ -1,5 +1,5 @@
 import { useMemo } from "react";
-import { useNavigate, useParams } from "react-router-dom";
+import { useNavigate, useParams, useSearchParams } from "react-router-dom";
 import { getModuleById } from "../modules/registry";
 import SlidePlayer from "../components/SlidePlayer";
 //import { hasPassed } from "../progress";
@@ -8,6 +8,9 @@ import { routes } from "../routes";
 export default function ModuleView() {
   const { id } = useParams<{ id: string }>();
   const navigate = useNavigate();
+  const [searchParams] = useSearchParams();
+
+  const isReviewMode = searchParams.get("review") === "true";
 
   const content = useMemo(() => (id ? getModuleById(id) : undefined), [id]);
 
@@ -20,15 +23,22 @@ export default function ModuleView() {
     );
   }
 
- // const prevId = getPreviousModuleId(content.id);
- // if (prevId && !hasPassed(prevId)) {
- //   return <Navigate to={routes.module(prevId)} replace />;
- // }
+  // const prevId = getPreviousModuleId(content.id);
+  // if (prevId && !hasPassed(prevId)) {
+  //   return <Navigate to={routes.module(prevId)} replace />;
+  // }
 
   return (
     <SlidePlayer
       slides={content.slides}
-      onFinish={() => navigate(routes.quiz(content.id))}
+      isReviewMode={isReviewMode}
+      onFinish={() => {
+        if (isReviewMode) {
+          navigate(`${routes.modules}?review=true`);
+        } else {
+          navigate(routes.quiz(content.id));
+        }
+      }}
     />
   );
 }

@@ -63,6 +63,18 @@
   opacity: 1;
   color: #000;
 }
+.start-actions {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 28px;
+  flex-wrap: wrap;
+}
+
+.primary-btn,
+.secondary-btn {
+  cursor: pointer;
+}
 
 /* BUTTONS - Neobrutalism Style */
 .primary-btn {

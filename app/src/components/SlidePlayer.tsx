@@ -5,6 +5,7 @@ import "../styles/SlidePlayer.css";
 type Props = {
   slides: Slide[];
   onFinish: () => void;
+  isReviewMode?: boolean;
 };
 
 type GalleryImage = {
@@ -31,7 +32,11 @@ function splitLines(text: string) {
     .filter(Boolean);
 }
 
-export default function SlidePlayer({ slides, onFinish }: Props) {
+export default function SlidePlayer({
+  slides,
+  onFinish,
+  isReviewMode = false,
+}: Props) {
   const [index, setIndex] = useState(0);
   const [galleryIndex, setGalleryIndex] = useState(0);
   const [preloadReady, setPreloadReady] = useState(true);
@@ -146,7 +151,9 @@ export default function SlidePlayer({ slides, onFinish }: Props) {
   function renderBodyText(parts: string[]) {
     if (parts.length === 0) return null;
 
-    return <div className="sp-body-text">{parts.map(renderParagraphOrList)}</div>;
+    return (
+      <div className="sp-body-text">{parts.map(renderParagraphOrList)}</div>
+    );
   }
 
   function renderSideCards(parts: string[]) {
@@ -413,7 +420,11 @@ export default function SlidePlayer({ slides, onFinish }: Props) {
               onClick={handleNextSlide}
               disabled={!canGoNext}
             >
-              {index === total - 1 ? "GÅ TILL TEST" : "NÄSTA"}
+              {index === total - 1
+                ? isReviewMode
+                  ? "TILLBAKA TILL MODULERNA"
+                  : "GÅ TILL TEST"
+                : "NÄSTA"}
             </button>
           </div>
         </div>
