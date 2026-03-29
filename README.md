@@ -38,7 +38,7 @@ Utvecklad för att ge personal en tydlig, praktisk och standardiserad genomgång
 
 ##  Applikationsflöde
 
-### 🎓 Utbildningsläge
+###  Utbildningsläge
 1. Starta utbildning  
 2. Gå igenom modul  
 3. Gör quiz  
