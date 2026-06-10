@@ -20,7 +20,7 @@
         "Arbeta uppifrån och ner samt från renare till smutsigare ytor",
         "Städa i slumpmässig ordning för att spara tid"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "id": 3,
@@ -41,7 +41,7 @@
         "Vatten från våtutrymmen kan göra golven hala",
         "För att minska behovet av att tömma papperskorgar"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Kontrollera att våt- och torrsida är rena, torra och i ordning samt förbereda städutrustning",
         "Ställa undan städvagnen utan att byta moppar"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     }
   ]
 }
