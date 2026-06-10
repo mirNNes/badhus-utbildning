@@ -37,7 +37,7 @@ function centerTextInArea(
 }
 
 export async function generateCertificatePdf(input: CertificateInput) {
-  const { fullName, score, total } = input;
+  const { fullName} = input;
 
   const issuedAt = formatDateTimeSv(new Date());
 
