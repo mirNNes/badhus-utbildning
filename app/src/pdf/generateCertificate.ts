@@ -15,19 +15,20 @@ function formatDateTimeSv(date: Date) {
   });
 }
 
-function centerText(
+function centerTextInArea(
   page: any,
   text: string,
+  areaX: number,
+  areaWidth: number,
   y: number,
   size: number,
   font: any,
   color = rgb(0, 0, 0)
 ) {
-  const { width } = page.getSize();
   const textWidth = font.widthOfTextAtSize(text, size);
 
   page.drawText(text, {
-    x: width / 2 - textWidth / 2,
+    x: areaX + areaWidth / 2 - textWidth / 2,
     y,
     size,
     font,
@@ -38,8 +39,7 @@ function centerText(
 export async function generateCertificatePdf(input: CertificateInput) {
   const { fullName, score, total } = input;
 
-  const now = new Date();
-  const issuedAt = formatDateTimeSv(now);
+  const issuedAt = formatDateTimeSv(new Date());
 
   const certId = (
     globalThis.crypto?.randomUUID?.() ??
@@ -63,6 +63,10 @@ export async function generateCertificatePdf(input: CertificateInput) {
   const lightGold = rgb(1, 0.96, 0.84);
   const darkGray = rgb(0.18, 0.18, 0.18);
   const lightGray = rgb(0.95, 0.95, 0.95);
+  const white = rgb(1, 1, 1);
+
+  const contentX = 275;
+  const contentWidth = width - contentX - 90;
 
   // Bakgrund
   page.drawRectangle({
@@ -70,7 +74,7 @@ export async function generateCertificatePdf(input: CertificateInput) {
     y: 0,
     width,
     height,
-    color: rgb(1, 1, 1),
+    color: white,
   });
 
   // Yttre gul ram
@@ -103,20 +107,41 @@ export async function generateCertificatePdf(input: CertificateInput) {
     opacity: 0.35,
   });
 
-  // Logo
-  try {
-    const logoUrl = "/modules/bassang/images/logo.png";
-    const logoImageBytes = await fetch(logoUrl).then((res) => {
-      if (!res.ok) throw new Error("Logo kunde inte laddas");
-      return res.arrayBuffer();
-    });
+  // Vänster dekorlinje
+  page.drawLine({
+    start: { x: 250, y: 145 },
+    end: { x: 250, y: height - 145 },
+    thickness: 1.5,
+    color: gold,
+  });
 
-    const logoImage = await pdfDoc.embedPng(logoImageBytes);
-    const logoDims = logoImage.scale(0.22);
+  // Logo till vänster
+  try {
+    const logoUrl = new URL(
+      `${import.meta.env.BASE_URL}modules/bassang/images/logo.png`,
+      window.location.origin
+    ).toString();
+
+    const response = await fetch(logoUrl);
+
+    if (!response.ok) {
+      throw new Error(`Logo kunde inte laddas: ${response.status}`);
+    }
+
+    const logoImageBytes = await response.arrayBuffer();
+
+    let logoImage;
+    try {
+      logoImage = await pdfDoc.embedPng(logoImageBytes);
+    } catch {
+      logoImage = await pdfDoc.embedJpg(logoImageBytes);
+    }
+
+    const logoDims = logoImage.scale(0.45);
 
     page.drawImage(logoImage, {
-      x: width / 2 - logoDims.width / 2,
-      y: height - 115,
+      x: 115,
+      y: height / 2 - logoDims.height / 2 + 5,
       width: logoDims.width,
       height: logoDims.height,
     });
@@ -125,13 +150,24 @@ export async function generateCertificatePdf(input: CertificateInput) {
   }
 
   // Rubrik
-  centerText(page, "CERTIFIKAT", height - 165, 42, fontBold, black);
+  centerTextInArea(
+    page,
+    "CERTIFIKAT",
+    contentX,
+    contentWidth,
+    height - 145,
+    46,
+    fontBold,
+    black
+  );
 
-  centerText(
+  centerTextInArea(
     page,
     "Härmed intygas att",
-    height - 205,
-    15,
+    contentX,
+    contentWidth,
+    height - 195,
+    16,
     fontItalic,
     darkGray
   );
@@ -139,97 +175,116 @@ export async function generateCertificatePdf(input: CertificateInput) {
   // Namn
   const displayName = fullName.toUpperCase();
 
-  centerText(page, displayName, height - 260, 30, fontBold, black);
+  centerTextInArea(
+    page,
+    displayName,
+    contentX,
+    contentWidth,
+    height - 242,
+    32,
+    fontBold,
+    black
+  );
 
   page.drawLine({
-    start: { x: 210, y: height - 272 },
-    end: { x: width - 210, y: height - 272 },
+    start: { x: contentX + 70, y: height - 258 },
+    end: { x: contentX + contentWidth - 70, y: height - 258 },
     thickness: 1.5,
     color: gold,
   });
 
   // Kursinfo
-  centerText(
+  centerTextInArea(
     page,
     "har genomfört och blivit godkänd i",
-    height - 315,
+    contentX,
+    contentWidth,
+    height - 310,
     14,
     font,
     darkGray
   );
 
-  centerText(page, appInfo.courseName, height - 350, 22, fontBold, black);
+  centerTextInArea(
+    page,
+    appInfo.courseName,
+    contentX,
+    contentWidth,
+    height - 348,
+    26,
+    fontBold,
+    black
+  );
 
-  centerText(
+  centerTextInArea(
     page,
     "Digital städutbildning – Hylliebadet",
-    height - 378,
-    13,
+    contentX,
+    contentWidth,
+    height - 382,
+    14,
     font,
     darkGray
   );
 
   // Resultatruta
   const boxWidth = 430;
-  const boxHeight = 58;
-  const boxX = width / 2 - boxWidth / 2;
-  const boxY = height - 465;
+  const boxHeight = 62;
+  const boxX = contentX + contentWidth / 2 - boxWidth / 2;
+  const boxY = 142;
 
   page.drawRectangle({
     x: boxX,
     y: boxY,
     width: boxWidth,
     height: boxHeight,
-    color: rgb(1, 1, 1),
-    borderWidth: 1.5,
+    color: white,
+    borderWidth: 2,
     borderColor: gold,
   });
 
-  centerText(
-    page,
-    `RESULTAT: ${score} / ${total}  ·  GODKÄND`,
-    boxY + 35,
-    14,
-    fontBold,
-    black
-  );
+  centerTextInArea(
+  page,
+  "KURS GENOMFÖRD MED GODKÄNT RESULTAT",
+  boxX,
+  boxWidth,
+  boxY + 34,
+  14,
+  fontBold,
+  black
+);
 
-  centerText(
-    page,
-    `Utfärdat: ${issuedAt}`,
-    boxY + 15,
-    10,
-    font,
-    darkGray
-  );
+centerTextInArea(
+  page,
+  `Utfärdat: ${issuedAt}`,
+  boxX,
+  boxWidth,
+  boxY + 12,
+  11,
+  font,
+  darkGray
+);
 
   // Signatur / ansvarig
   page.drawLine({
-    start: { x: 105, y: 105 },
-    end: { x: 295, y: 105 },
+    start: { x: contentX + 20, y: 105 },
+    end: { x: contentX + 255, y: 105 },
     thickness: 1,
     color: black,
   });
 
   page.drawText("Utbildningsansvarig", {
-    x: 135,
-    y: 88,
-    size: 10,
+    x: contentX + 55,
+    y: 82,
+    size: 11,
     font,
     color: darkGray,
   });
 
-  page.drawLine({
-    start: { x: width - 295, y: 105 },
-    end: { x: width - 105, y: 105 },
-    thickness: 1,
-    color: black,
-  });
-
   page.drawText("Hylliebadet", {
-    x: width - 245,
-    y: 88,
-    size: 10,
+    x: contentX + 55,
+    y: 64,
+    size: 11,
     font,
     color: darkGray,
   });
@@ -249,14 +304,6 @@ export async function generateCertificatePdf(input: CertificateInput) {
     size: 8,
     font: fontBold,
     color: black,
-  });
-
-  page.drawText(`Version: ${appInfo.version}`, {
-    x: width - 180,
-    y: 58,
-    size: 8,
-    font,
-    color: darkGray,
   });
 
   const bytes = await pdfDoc.save();
